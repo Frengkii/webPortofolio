@@ -1,0 +1,26 @@
+.jumbotron {
+    padding-top: 7rem;
+    background-color: gray;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    text-decoration-color: gray;
+    color: white;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+#about {
+    background-color: gray;
+}
+
+#projects {
+    background-color: gray;
+    color: gray;
+}
+
+#contact {
+    background-color: gray;
+    color: whitesmoke;
+}
